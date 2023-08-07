@@ -40,7 +40,7 @@ I am a BackEnd Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
   <p>
    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KurbanovOtabek&theme=dracula&layout=compact&hide_border=true&bg_color=#0C1473" />
    <br>
-   <img src="https://github-readme-stats.vercel.app/api?username=KurbanovOtabek&count_private=true&show_icons=true&theme=dracula&hide_border=true&bg_color=00000000" />
+   <img src="https://github-readme-stats.vercel.app/api?username=KurbanovOtabek&count_private=true&show_icons=true&theme=dracula&hide_border=true&bg_color=#0C1473" />
     <br>
    <img src="https://metrics.lecoq.io/kurbanovotabek" />
   </p>
