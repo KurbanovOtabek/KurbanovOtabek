@@ -9,12 +9,14 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 
+<img src="https://komarev.com/ghpvc/?username=KurbanoOtabek&style=for-the-badge&color=green" alt=""/>
+
 [![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/pypy_dev)
 [![Instagram](https://img.shields.io/badge/-Instagram-F77737?style=flat&logo=instagram&logoColor=white)](https://instagram.com/etozheopto?igshid=NTc4MTIwNjQ2YQ==)
 [![GitLab](https://img.shields.io/badge/-GitLab-fca326?style=flat&logo=gitlab&logoColor=white)](https://gitlab.com/KurbanovOtabek)
 
 
-<img src="https://komarev.com/ghpvc/?username=KurbanoOtabek&style=for-the-badge&color=green" alt=""/>
+
 
 
 
