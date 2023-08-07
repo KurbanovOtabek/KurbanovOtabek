@@ -27,7 +27,7 @@
 
 I am a BackEnd Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Uzbekistan.
 
-- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+- :telescope: I’m working as a Software Engineer and contributing to backend and frontend for building web applications.
 
 - :seedling: Exploring Technical Content Writing.
 
