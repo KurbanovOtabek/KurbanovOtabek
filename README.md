@@ -70,7 +70,7 @@ I am a BackEnd Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 </div>
 <style>
  .div-1 {
-        background-color: #EBEBEB;
+        background-color: #0C1473;
     }
 </style>
 
