@@ -13,17 +13,6 @@
 [![Instagram](https://img.shields.io/badge/-Instagram-F77737?style=flat&logo=instagram&logoColor=white)](https://instagram.com/etozheopto?igshid=NTc4MTIwNjQ2YQ==)
 [![GitLab](https://img.shields.io/badge/-GitLab-fca326?style=flat&logo=gitlab&logoColor=white)](https://gitlab.com/KurbanovOtabek)
 
-<div id="badges">
-  <a href="https://instagram.com/etozheopto?igshid=NTc4MTIwNjQ2YQ==">
-    <img src="https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=instagramkedin&logoColor=red" alt="Instagram Badge"/>
-  </a>
-  <a href="https://t.me/pypy_dev">
-    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=blue" alt="Telegram Badge"/>
-  </a>
-  <a href="https://gitlab.com/KurbanovOtabek">
-    <img src="https://img.shields.io/badge/GitLab-orange?style=for-the-badge&logo=gitlab&logoColor=orange" alt="GitLab Badge"/>
-  </a>
-</div>
 
 <img src="https://komarev.com/ghpvc/?username=KurbanoOtabek&style=flat-square&color=blue" alt=""/>
 
