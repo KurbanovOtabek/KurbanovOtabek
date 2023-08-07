@@ -14,7 +14,7 @@
 [![GitLab](https://img.shields.io/badge/-GitLab-fca326?style=flat&logo=gitlab&logoColor=white)](https://gitlab.com/KurbanovOtabek)
 
 
-<img src="https://komarev.com/ghpvc/?username=KurbanoOtabek&style=flat-square&color=blue" alt=""/>
+<img src="https://komarev.com/ghpvc/?username=KurbanoOtabek&style=flat-square&color=green" alt=""/>
 
 
 
