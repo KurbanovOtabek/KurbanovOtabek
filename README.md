@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hello! I'm Kurbanov Otabek </h1>
+<h1 align="center">👋 Hello! I'm Otabek Kurbanov </h1>
 
 <p align="center">
  <img width="600" src="assets/github-snake.svg" alt="snake"/>
