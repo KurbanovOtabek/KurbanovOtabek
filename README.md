@@ -39,7 +39,7 @@ I am a BackEnd Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 
 - :seedling: Exploring Technical Content Writing.
 
-- :zap: In my free time I study new technologies and play games
+- :zap: In my free time I study new technologies 
 
 
 <div>
