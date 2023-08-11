@@ -11,6 +11,7 @@
 
 <img src="https://komarev.com/ghpvc/?username=KurbanoOtabek&style=for-the-badge&color=green" alt=""/>
 
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-2CA5E0?style=flat&logo=linkedin&logoColor=white)](www.linkedin.com/in/otabek-kurbanov)
 [![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/pypy_dev)
 [![Instagram](https://img.shields.io/badge/-Instagram-F77737?style=flat&logo=instagram&logoColor=white)](https://instagram.com/etozheopto?igshid=NTc4MTIwNjQ2YQ==)
 [![GitLab](https://img.shields.io/badge/-GitLab-fca326?style=flat&logo=gitlab&logoColor=white)](https://gitlab.com/KurbanovOtabek)
